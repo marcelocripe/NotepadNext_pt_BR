@@ -1,0 +1,32 @@
+[Desktop Entry]
+Categories=Qt;TextEditor;Utility;
+Exec=/opt/notepadnext_0.11/AppRun %f
+Icon=/opt/notepadnext_0.11/usr/share/icons/hicolor/scalable/apps/NotepadNext.svg
+MimeType=text/plain;
+StartupNotify=true
+Terminal=false
+Type=Application
+
+Name=Notepad Next
+Name[en_GB]=Text Editor (“Notepad Next”)
+Name[gl_ES]=Editor de texto Notepad Next
+Name[de]=Texteditor („Notepad Next”)
+Name[pt]=Notepad Next - Editor de texto
+Name[pt_BR]=Editor de Texto Notepad Next
+Name[ru]=Текстовый редактор (Notepad Next)
+
+GenericName=Text Editor
+GenericName[en_GB]=Text Editor
+GenericName[gl_ES]=Editor de texto
+GenericName[de]=Texteditor
+GenericName[pt]=Editor de texto
+GenericName[pt_BR]=Editor de Texto
+GenericName[ru]=Текстовый редактор
+
+Comment=A cross-platform, reimplementation of Notepad++
+Comment[en_GB]=A cross-platform, reimplementation of Notepad++
+Comment[gl_ES]=Unha reimplementación multiplataforma de Notepad++
+Comment[de]=Eine plattformübergreifende Neuimplementierung von Notepad++
+Comment[pt]=Uma reimplementação multiplataforma do Notepad++
+Comment[pt_BR]=O ‘Notepad Next’ é um editor de texto sendo uma reimplementação do Notepad++ para várias plataformas
+Comment[ru]=Кроссплатформенная, повторная реализация Notepad++
